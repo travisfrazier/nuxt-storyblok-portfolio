@@ -16,6 +16,8 @@ logs
 .DS_Store
 .fleet
 .idea
+
+# Local Host HTTPS 
 localhost-key.pem
 localhost.pem
 
